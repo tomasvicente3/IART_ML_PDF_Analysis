@@ -26,7 +26,7 @@ The code for this project is in the Jupyter notebook file `main.ipynb`. The resu
     Open the `main.ipynb` file in VS Code.
 
 3. **Run the Notebook:**
-    You can run the cells directly in VS Code by clicking on the "Run" button that appears above each cell or by selecting the cell and pressing `Shift + Enter` / `Option + Enter`.
+    You can run the cells directly in VS Code by clicking on the "Run" button that appears above each cell or by selecting the cell and pressing `Shift + Enter` / `Control + Enter` (MacOS keyboard).
 
 ## Authors
 
